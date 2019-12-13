@@ -1,0 +1,2 @@
+include ':app', ':woocommerseandroidoauth1library'
+rootProject.name='GarminAuthentication'
