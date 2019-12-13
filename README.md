@@ -13,7 +13,7 @@ Steps to follow
     
     const val CONSUMER_SECRET = "update your consumer secrete from Garmin Developer Portal"
     
-    const val GARMIN_REDIRECT_URL = "update your redirect url from backend"
+    const val GARMIN_REDIRECT_URL = "update your redirect url from Garmin Developer Portal"
 
 4. All done. Run app and you are good to go.
 
